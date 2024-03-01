@@ -13,9 +13,10 @@ This project involves creating a system with two entities, each having a pair of
 3. Generate some data to encrypt with symmetric key.
 4. Copy the public keys to the opposite system.
 
-## Cron Job
+## Crontob
 
-Create a cron job that generates a file at 4:30 pm every day. Generate a digital signature using this file. Forward the data to another user, adding an extra layer of security. Then decrypt the data.
+Create a crontob that generates a file at 4:30 pm every day. Generate a digital signature using this file. Forward the data to another user, adding an extra layer of security. Then decrypt the data.
+simply type "crontab -e" in terminal/shell by selectiing "vi" press "i" and go to last line. type "30 16 * * * /bin/bash /path of your .sh file" and press "esc" " :wq" to exit from vi.
 
 ## Bash Script
 
