@@ -21,11 +21,3 @@ simply type "crontab -e" in terminal/shell by selectiing "vi" press "i" and go t
 ## Bash Script
 
 A bash script is written to automate the encryption and decryption process. The process is shown being done as well.
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-MIT
